@@ -16,4 +16,6 @@ The analysis consisted of the following parts:
 
 **Data Visualization**
 
+For a detailed overview of the project, please check the R Notebook.
+
 Dataset was taken from here: https://www.kaggle.com/datasets/farhadzeynalli/online-advertising-effectiveness-study-ab-testing
